@@ -10,4 +10,4 @@ pyymw16 electron density model is used. However this can be replaced with just n
 
 The code in python is parallelized, which further reduces runtime.
 
-Within archive/ folder you see older versions of the same code, entire written in Python.
+Within archive/ folder you see older versions of the same code, entirely written in Python.
